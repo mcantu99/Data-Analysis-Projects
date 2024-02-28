@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @mcantu99, welcome to my GitHub!!!
-- 👀 I’m interested in biotechnology, since its what I majored in, however, I recently found the world of data analysis and programming and im excited to embark on this journey!
-- 🌱 I’m currently learning python, SQL and Power BI since I found them the most intuitive and approachable, however im open to new stuff as well. 
-- 📫 How to reach me on LinkedIn: www.linkedin.com/in/mauriciocantu201b16232a99
-- 😄 Pronouns: He/Him
+#### Pizza Sales Project
+
+This data analysis project aims to provide insights into the sales performance of a Pizza Restaurant. By analysing various aspects of the data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+
+
+### Data Sources
+
+Pizza sales data: [pizza_sales_excel_file.xlsx](https://github.com/mcantu99/Data-Analysis-Projects/files/14428106/pizza_sales_excel_file.xlsx)
+(CREDITS TO "@Data Tutorials", Youtube link here --> https://www.youtube.com/@datatutorials1
+
+
+### Tools
+
+- Excel: Data Cleaning
+- SQL Server: Data Analysis
+- Power BI: Data Visualization
+
+### Data Cleaning Preparation
+
+1. Data loading and inspection
+2. Removing duplicates and missing values
+3. Cleaning and formatting
+
+### Exploratory Data Analysis
+
+Identifying KPI's: Total Revenue, Average Order Value, Quantity Sold, Total Orders, Average Pizzas Per Order
+Explore trends with visualizations: Daily, Monthly and Annual trends for pizza sales.
+
+### Data Analysis
+
+The SELECT statements used in SQL Server provided us the information necessary to identify the KPI's
+
+
 
 <!---
 mcantu99/mcantu99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
