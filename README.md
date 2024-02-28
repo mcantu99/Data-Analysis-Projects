@@ -26,9 +26,6 @@ Pizza sales data: [pizza_sales_excel_file.xlsx](https://github.com/mcantu99/Data
 Identifying KPI's: Total Revenue, Average Order Value, Quantity Sold, Total Orders, Average Pizzas Per Order
 Explore trends with visualizations: Daily, Monthly and Annual trends for pizza sales.
 
-### Data Analysis
-
-The SELECT statements used in SQL Server provided us the information necessary to identify the KPI's
 
 
 
