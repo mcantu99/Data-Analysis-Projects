@@ -1,4 +1,4 @@
-#### Pizza Sales Project
+# Pizza Sales Project
 
 This data analysis project aims to provide insights into the sales performance of a Pizza Restaurant. By analysing various aspects of the data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
