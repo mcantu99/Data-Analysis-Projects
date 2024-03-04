@@ -6,7 +6,7 @@ This data analysis project aims to provide insights into the sales performance o
 ### Data Sources
 
 Pizza sales data: [pizza_sales_excel_file.xlsx](https://github.com/mcantu99/Data-Analysis-Projects/files/14428106/pizza_sales_excel_file.xlsx)
-(CREDITS TO "@Data Tutorials", Youtube link here --> https://www.youtube.com/@datatutorials1
+(CREDITS TO "@Data Tutorials", Youtube link here --> https://www.youtube.com/@datatutorials1)
 
 
 ### Tools
